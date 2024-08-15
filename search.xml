@@ -3,12 +3,23 @@
   <entry>
     <title>The Future</title>
     <url>/2024/08/14/The-Future/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h2 id="好久没见"><a href="#好久没见" class="headerlink" title="好久没见"></a>好久没见</h2><p>![[1723716703252.png]]<br>大家好啊，</p>
+<p>好久没管理这里的博客内容了，在这里说一下近况。</p>
+<p>目前读研快毕业了，也开始急着找工作。。。读研期间也参与了一些项目像华为项目之类的，也做了一些实验发了一篇论文（还有一篇论文还没时间写），然后现在是在一家世界五百强的公司实习。</p>
+<p>说一下目前的痛点吧！</p>
+<h2 id="读研痛点"><a href="#读研痛点" class="headerlink" title="读研痛点"></a>读研痛点</h2><p>第一，计算机太卷了，不仅要看学历、技术、行业状况，还要看你的其他条件，像年龄这些。所以读研与进入互联网工作到底考虑哪个呢？一定要想清楚。<br>第二，进入互联网行业，你需要考虑职业规划，你需要明白你想做什么，因为这里更新换代很快，机会总是稍纵即逝。</p>
+<h2 id="接下来的规划"><a href="#接下来的规划" class="headerlink" title="接下来的规划"></a>接下来的规划</h2><p>现在很少更新这里了，但是还是想多做点事情的，接下来我会尝试一些新东西，如果大家有关注，我还想一起讨论未来的职业规划吧。<br>todo1：已经确定想走后端，未来的职业规划（还有有什么后路，什么岗位？编制？公务员？国企？想做什么？架构？业务？管理？）<br>todo2：目前计划做一个网络博客，然后挂载一些ai上去（毕竟自己的研究方向就是ai）。<br>todo3：目前还打算去做一些有趣的app网站。<br>todo4：更新一下这里的文章，但只是维护，后来学了很多东西，感觉可以把这里的东西翻新一下，帮助更多人上岸。<br>more：慢慢更新</p>
+<h2 id="关于接下来比较重要的活动（已经上岸的人可以看看）"><a href="#关于接下来比较重要的活动（已经上岸的人可以看看）" class="headerlink" title="关于接下来比较重要的活动（已经上岸的人可以看看）"></a>关于接下来比较重要的活动（已经上岸的人可以看看）</h2><p>接下来最重要的，无疑是找工作了，目前没打算升学，那么找工作就是当务之急的事了，我会不定期在这里记录自己的面试经历（虽然找实习的时候就已经被折磨了）。已经上岸计算机的人，可以私聊我读研规划，目前作为过来人，有太多想说的了。</p>
+<p>就先这样吧！</p>
+]]></content>
+      <tags>
+        <tag>Plan</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
     <url>/2024/08/14/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+    <content><![CDATA[<p>这是我的第一篇博客，在这里记录一些东西，也算是留念。</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
@@ -22,5 +33,38 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+      <tags>
+        <tag>Blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>华为项目：DLCF-DCA</title>
+    <url>/2024/08/15/%E5%8D%8E%E4%B8%BA%E9%A1%B9%E7%9B%AE%EF%BC%9ADLCF-DCA/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>编程算法总结</title>
+    <url>/2024/08/15/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<h1 id="算法总结"><a href="#算法总结" class="headerlink" title="算法总结"></a>算法总结</h1><h2 id="数组和集合的操作技巧"><a href="#数组和集合的操作技巧" class="headerlink" title="数组和集合的操作技巧"></a>数组和集合的操作技巧</h2><p>第1 记得hashmap是put，hashset是add<br>第2 hashMap.values()直接转化为一个数组，然后可以给ArrayList&lt;&gt;(hash.values)赋值 hot49<br>第3 hashset可以直接增强for进行循环取元素 hot49<br>第4 队列的常用方法：getFirst和removeFirst和addFirst</p>
+<h2 id="快慢指针的总结"><a href="#快慢指针的总结" class="headerlink" title="快慢指针的总结"></a>快慢指针的总结</h2><p>看两数之和拓展到三数之和，我们要记住：先排序、设置边界指针，去重</p>
+<h2 id="去重"><a href="#去重" class="headerlink" title="去重"></a>去重</h2><p>其中，去重可以看三数之和与最长连续序列，你可以发现，我们的目标都是只计算第一个</p>
+<h2 id="字符串处理"><a href="#字符串处理" class="headerlink" title="字符串处理"></a>字符串处理</h2><p>第1 string转char数组 hot49<br>String.toCharArray()<br>第2 string分割成String数组 （ACM输入的技巧）<br>String.splict()<br>第3 char数组转成string hot49<br>new String(char_arr)<br>第4 char_arr可以直接用sort hot49<br>第5 字符的ASCII编码</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">获得String的i的char</span><br><span class="line">s.charAt(i)</span><br><span class="line">字母表</span><br><span class="line">26个，可以用int存，然后使用&#x27;s&#x27; - &#x27;a&#x27;的方式取</span><br></pre></td></tr></table></figure>
+<p>第6 转数字与数字转</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">任何形式，都基本可以(int)a或者包装类.valueOf()</span><br><span class="line">而char，必须用</span><br><span class="line">int a = &#x27;1&#x27; - &#x27;0&#x27;</span><br><span class="line">char a = 1 + &#x27;a&#x27;</span><br></pre></td></tr></table></figure>
+
+<h2 id="忘记思路的题目"><a href="#忘记思路的题目" class="headerlink" title="忘记思路的题目"></a>忘记思路的题目</h2><p>第1题11 盛水最多的容器：在目前最大的情况下，缩小中除非找到更大的，遇到更大的就自然会往那边缩<br>第2题3 滑动窗口像一个吞噬魔，求最小：不满足题目条件就由移动，满足了就左减；求最大：满足题目条件就继续右移，不满足就丢掉不满足的<br>第3题438 虽然说做出来了，但还是要努力啊，不太熟悉<br>第4题 560 不是滑动窗口，滑动窗口要求的是最小，但是这里并不需要。这里是前缀和，假设前缀和A和前缀和B满足条件：preB-preA &#x3D; k，那么我只要累积计算preB，然后看preA在不在之前计算的前缀结果里边，最后，别忘了整个前缀B&#x3D;k的情况是不会记录到hash的。第二个坑：别忘了得先判断有没有满足条件的序列，再把最新的前缀和放进hash里边。</p>
+<h2 id="BUG总结"><a href="#BUG总结" class="headerlink" title="BUG总结"></a>BUG总结</h2><p>第1 hot11，list&lt;list&lt;&gt;&gt;必须返回同样的格式，不要返回Arraylist的引用</p>
+<h2 id="滑动窗口总结"><a href="#滑动窗口总结" class="headerlink" title="滑动窗口总结"></a>滑动窗口总结</h2><p>第1 一般题目都是吃一个吐一个hot76<br>第2 3这道题比较特殊，要灵活处理，那就是hashmap不用吐，而是left吐就好</p>
+<h2 id="单调栈"><a href="#单调栈" class="headerlink" title="单调栈"></a>单调栈</h2><p>第一题239 单调队列，题目讲的是滑动窗口，队头的元素一定在滑动窗口的左边，删除只会从队首删除</p>
+]]></content>
+      <tags>
+        <tag>LeetCode</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>论文：基于Transformer的模型</title>
+    <url>/2024/08/15/%E8%AE%BA%E6%96%87%EF%BC%9A%E5%9F%BA%E4%BA%8ETransformer%E7%9A%84%E6%A8%A1%E5%9E%8B/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
