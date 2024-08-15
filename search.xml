@@ -64,6 +64,9 @@
 <h2 id="滑动窗口总结"><a href="#滑动窗口总结" class="headerlink" title="滑动窗口总结"></a>滑动窗口总结</h2><p>第1 一般题目都是吃一个吐一个hot76<br>第2 3这道题比较特殊，要灵活处理，那就是hashmap不用吐，而是left吐就好</p>
 <h2 id="单调栈"><a href="#单调栈" class="headerlink" title="单调栈"></a>单调栈</h2><p>第一题239 单调队列，题目讲的是滑动窗口，队头的元素一定在滑动窗口的左边，删除只会从队首删除</p>
 ]]></content>
+      <categories>
+        <category>编程算法</category>
+      </categories>
       <tags>
         <tag>LeetCode</tag>
       </tags>
